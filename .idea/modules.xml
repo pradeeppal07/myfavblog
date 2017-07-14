@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/djangogirls.iml" filepath="$PROJECT_DIR$/.idea/djangogirls.iml" />
+      <module fileurl="file://$PROJECT_DIR$/efs/.idea/efs.iml" filepath="$PROJECT_DIR$/efs/.idea/efs.iml" />
+      <module fileurl="file://C:\Users\PRADEEP PAL\djangogirls\efs\.idea\efs.iml" filepath="C:\Users\PRADEEP PAL\djangogirls\efs\.idea\efs.iml" />
     </modules>
   </component>
 </project>
